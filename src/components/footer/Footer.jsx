@@ -25,9 +25,9 @@ const Footer = () => {
         <a href="https://twitter.com"><IoLogoTwitter/></a>
       </div>
 
-      <div className="footer__copyright">
-        <small>&copy; EGATOR Tutorials. All rights reserved.</small>
-      </div>
+      {/* <div className="footer__copyright">
+        <small>&copy; Tomasz Pikniczka</small>
+      </div> */}
     </footer>
   )
 }
