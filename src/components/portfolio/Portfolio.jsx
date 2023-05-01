@@ -20,7 +20,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Calculator produced in the React Js',
+    title: 'Calculator done with React Js',
     github: 'https://github.com/piknik1979/react-calc.git',
     demo: 'https://tomasz-react-calc-app.netlify.app/'
   },
