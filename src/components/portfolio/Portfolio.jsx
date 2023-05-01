@@ -13,9 +13,9 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'My first project Tomasz',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: 'Small Todo App in React Js',
+    github: 'https://github.com/piknik1979/todo-app.git',
+    demo: 'https://react-tomasz-todo-app.netlify.app/'
   },
   {
     id: 2,
