@@ -23,7 +23,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>2+ Years Individual Learning</small>
+              <small>3+ Years Individual Learning</small>
             </article>
 
             <article className='about__card'>
@@ -40,7 +40,13 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eos voluptatem eius dolorem maiores nihil ducimus at rem ullam reprehenderit quidem quia deserunt, molestiae, eligendi amet repellat molestias quos totam.
+            Having always enjoyed working with technology,
+and specifically creativity within this, I have decided
+to transition my career into the development sector.
+I am now seeking an opportunity to progress my
+existing skills and knowledge within a full stack
+development role.
+
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

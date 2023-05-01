@@ -50,7 +50,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>React Native</h4>
+                <h4>Python 3</h4>
                 <small className='text-light'></small>
               </div>
             </article>
@@ -78,7 +78,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Heroku</h4>
+                <h4>Netifly & Heroku</h4>
                 <small className='text-light'></small>
               </div>
             </article>
